@@ -1,0 +1,10 @@
+@import "../global/variables.scss";
+
+.app {
+  height: 1800vh;
+  position: relative;
+  background: $background;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
