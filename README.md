@@ -1,6 +1,6 @@
 # Running Project Locally
 
-- at the root run `npm i` to install dependencies, then `npm run start`.
+- at the root run `npm i` to install dependencies, then `npm run start` or go to https://olsaks.github.io/sample/
 
 # About
 
